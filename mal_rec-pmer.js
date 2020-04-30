@@ -1,5 +1,5 @@
 // ==UserScript==
-// @name MAL ReviewReport PMer (created by Kineta; modified by AndyRayy) - Chrome
+// @name MAL ReviewReport PMer (created by Kineta; heavily modified by AndyRayy) - Chrome
 // @description Adds PM functionality, removal reason options, and episodes seen
 // @version 1.6.8
 // @updateURL https://www.dropbox.com/sh/w2slpk3kq6ca5xd/AADEGzOTQOmiW7SqhmBi7Euia/Review%20Mods/Chrome/mal_review_pmer.user.js?dl=1
